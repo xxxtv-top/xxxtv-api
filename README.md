@@ -1,4 +1,4 @@
-# XXXTV API
+# XXXTV API — Free Porn Video Metadata API & Embed Player
 
 Free public Porn video metadata API and embed platform.
 

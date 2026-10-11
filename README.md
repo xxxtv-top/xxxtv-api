@@ -108,6 +108,4 @@ https://xxxtv.top/api/videos/FDouWc65Gw
 
 ## License
 
-No open-source license has been granted for this repository.
-
-The documentation and examples are provided for API integration purposes.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
